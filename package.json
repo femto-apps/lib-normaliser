@@ -1,5 +1,5 @@
 {
-  "name": "@femto-apps/lib-normaliser",
+  "name": "@femto-apps/normaliser",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
