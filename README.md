@@ -19,7 +19,7 @@ const normaliser = {
 
 {
     const { name, error } = normalise(normaliser, { name: 'bad_user' })
-    // error: ['Name too short']
+    // error: { name: ['Name too short'] } 
     // name: undefined
 }
 
